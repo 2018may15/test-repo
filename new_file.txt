@@ -1,0 +1,25 @@
+#Test
+PASSED: getNotCompletedTask
+PASSED: getCompletedTask
+PASSED: addNewTask
+PASSED: getTodayTask
+PASSED: getHighPriorityTask
+PASSED: getTasklistTask
+PASSED: getTaskDetails
+PASSED: updateTask
+PASSED: moveTask
+PASSED: createSubTask
+PASSED: getSubTaskDetails
+PASSED: addComment
+PASSED: getComment
+PASSED: updateComment
+PASSED: deleteComment
+PASSED: startTimer
+PASSED: getMyDeletedTask
+PASSED: getDeletedTask
+PASSED: getTaskTimer
+PASSED: stopTimer
+PASSED: getAllTaskLayouts
+PASSED: getTaskLayoutFieldDetails
+PASSED: getTaskLayoutStatusDetails
+PASSED: deleteTask
