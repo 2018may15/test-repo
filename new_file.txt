@@ -41,3 +41,22 @@ PASSED: getcustomfields
 PASSED: getNotCompletedTask
 PASSED: getCompletedTask
 PASSED: addNewTask
+
+//Latest
+PASSED: getTasklistTask
+PASSED: getTaskDetails
+PASSED: getTodayTask
+PASSED: updateTask
+PASSED: moveTask
+PASSED: createSubTask
+PASSED: getSubTaskDetails
+PASSED: addComment
+PASSED: getComment
+PASSED: updateComment
+PASSED: deleteComment
+PASSED: startTimer
+PASSED: getTaskTimer
+PASSED: getMyDeletedTask
+PASSED: getDeletedTask
+PASSED: stopTimer
+PASSED: getAllTaskLayouts
