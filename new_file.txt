@@ -20,6 +20,8 @@ PASSED: getDeletedTask
 PASSED: getTaskTimer
 PASSED: stopTimer
 PASSED: getAllTaskLayouts
+
+#old
 PASSED: getTaskLayoutFieldDetails
 PASSED: getTaskLayoutStatusDetails
 PASSED: deleteTask
@@ -33,3 +35,9 @@ PASSED: Newproject
 PASSED: createstrictproject
 PASSED: updateproject
 PASSED: deleteproject
+
+#New
+PASSED: getcustomfields
+PASSED: getNotCompletedTask
+PASSED: getCompletedTask
+PASSED: addNewTask
