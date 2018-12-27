@@ -60,3 +60,17 @@ PASSED: getMyDeletedTask
 PASSED: getDeletedTask
 PASSED: stopTimer
 PASSED: getAllTaskLayouts
+
+
+==============================================
+Default suite
+Total tests run: 134, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.XMLReporter@3c5a99da: 27 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 0 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@5e025e70: 5 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@1888ff2c: 51 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@66d33a: 20 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6833ce2c: 16 ms
+
