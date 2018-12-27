@@ -23,3 +23,13 @@ PASSED: getAllTaskLayouts
 PASSED: getTaskLayoutFieldDetails
 PASSED: getTaskLayoutStatusDetails
 PASSED: deleteTask
+
+##
+PASSED: getactiveProjects
+PASSED: getarchivedProjects
+PASSED: gettemplateProjects
+PASSED: getProjectdetails
+PASSED: Newproject
+PASSED: createstrictproject
+PASSED: updateproject
+PASSED: deleteproject
